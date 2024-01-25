@@ -1,5 +1,5 @@
 body {
-  background-image: url("./theatre.jpg");
+  background-image: url("./images/theatre.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   }
@@ -13,7 +13,7 @@ h1, h3 {
   padding-top: 3rem;
   padding-bottom: 3rem;
   margin-bottom: 0;
-  background-image: url("./chair.jpg");
+  background-image: url("./images/chair.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
